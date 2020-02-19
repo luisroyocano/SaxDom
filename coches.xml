@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listado>
+    <coche id="1">
+        <matricula>987456</matricula>
+        <marca>Ford</marca>
+        <modelo>Fiesta</modelo>
+        <potencia>100cb</potencia>
+        <año>2010</año>
+        <km>160000km</km>
+    </coche>
+    <coche id="2">
+        <matricula>986747</matricula>
+        <marca>Ford</marca>
+        <modelo>Mondeo</modelo>
+        <potencia>140cb</potencia>
+        <año>2014</año>
+        <km>100000km</km>
+    </coche>
+    <coche id="3">
+        <matricula>321456</matricula>
+        <marca>Citroen</marca>
+        <modelo>c4</modelo>
+        <potencia>130cb</potencia>
+        <año>2007</año>
+        <km>150684654654654</km>
+    </coche>
+    <coche id="4">
+        <matricula>574632</matricula>
+        <marca>Citroen</marca>
+        <modelo>c5</modelo>
+        <potencia>110cb</potencia>
+        <año>2008</año>
+        <km>180000km</km>
+    </coche>
+    <coche id="5">
+        <matricula>578412</matricula>
+        <marca>Kia</marca>
+        <modelo>Carnival</modelo>
+        <potencia>110cb</potencia>
+        <año>2006</año>
+        <km>200000km</km>
+    </coche>
+</listado>
